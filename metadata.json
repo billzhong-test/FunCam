@@ -1,0 +1,8 @@
+
+{
+  "name": "Gemini Fun Cam",
+  "description": "Capture a photo with your webcam and let Gemini add a funny, imaginative twist to it. See what hilarious effects the AI comes up with!",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
